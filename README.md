@@ -1,6 +1,7 @@
 # Cellestial AI
 
 A modern, interactive AI chatbot that uses NASA articles and data to answer questions about space exploration, astronomy, and scientific discoveries.
+URL: https://cellestial-ai.web.app/
 
 ## Features
 
