@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="12" cy="12" r="12" fill="#6A6A8A"/>
+  <!-- Rocket body outline -->
+  <path d="M12 4L8 8h8l-4-4z" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+  <!-- Rocket main body -->
+  <rect x="10" y="8" width="4" height="6" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+  <!-- Rocket fin -->
+  <path d="M8 8L6 10v2l2-1V8z" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+  <!-- Rocket flames -->
+  <path d="M12 14L10 18h4l-2-4z" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+  <path d="M12 14L11 16h2l-1-2z" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+</svg>

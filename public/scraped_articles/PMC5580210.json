@@ -1,0 +1,8 @@
+{
+  "title": "Whole metagenome profiles of particulates collected from the International Space Station",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5580210/",
+  "pmc_id": "5580210",
+  "content": "Erratum to: Whole metagenome profiles of particulates collected from the International Space Station Received 2017 Aug 23; Accepted 2017 Aug 23; Collection date 2017. Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. Following publication of the original article [1], the authors reported that the X-axis label was missing from Fig.4. The new Fig.4is attached. Microbial gene pathways observed in the whole metagenomes of ISS and SAF samples. Reads matching microbial gene targets above an identity threshold of 0.9 were assigned to KEGG orthologies. KO number was used to assign a gene function category, shown along thevertical axis. Read abundance is graphically represented on a square-root scale. Absolute read counts are shown adjacent to each correspondingcircle",
+  "content_length": 1305,
+  "scraped_date": "2025-10-04 11:55:21"
+}
